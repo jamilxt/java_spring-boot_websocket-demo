@@ -2,5 +2,5 @@
 With or Without SockJs configured
 
 ## Commands for gradle/Spring
-- `gradle clean`: clean the generated build dir
-- `gradle bootRun`: download the dependencies & run the application
+- `gradlew clean`: clean the generated build dir
+- `gradlew bootRun`: download the dependencies & run the application
